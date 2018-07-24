@@ -1,0 +1,20 @@
+div {
+    margin-bottom: 10px;
+}
+
+div button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 8%;
+}
+
+div textarea {
+    border-radius: 10px;
+    border-color: aquamarine;
+}
+
+div textarea:focus,
+div textarea:hover {
+    border-radius: 10px;
+    border-color: aquamarine;
+}
